@@ -1,0 +1,6 @@
+framework module Pods_GeeksAssigment {
+  umbrella header "Pods-GeeksAssigment-umbrella.h"
+
+  export *
+  module * { export * }
+}
