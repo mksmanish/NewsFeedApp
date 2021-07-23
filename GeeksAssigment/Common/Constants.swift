@@ -20,7 +20,7 @@ class Constants : NSObject {
     }
     
     enum dateformats {
-        static let forDate = "yyyy-mm-dd hh:mm:ss"
+        static let forDate = "yyyy-mm-dd HH:mm:ss"
         static let resultDate = "MMM d, yyyy"
         static let resultTime = "hh:mm a"
     }
