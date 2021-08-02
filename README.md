@@ -11,7 +11,7 @@ This App will show the news feed  on a regular or continuous basis for onward di
    d. Show the title from the items/title field.<br>
    e. Show the date from the items/pubDate field, formatted as depicted in the design.<br>
 3. Used the two different type of cell for regular an top Artciles for prsenatation.<br>
-4. Used the kingfisher the image cache and asyn laoding of the images.<br>   
+4. Used the kingfisher the image cache and asyn ways laoding of the images.<br>   
 <br>
 <br>
 <a href="https://github.com/mksmanish/NewsFeedApp/blob/main/screens/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-08-01%20at%2022.25.32.png"><img src="https://github.com/mksmanish/NewsFeedApp/blob/main/screens/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-08-01%20at%2022.25.32.png" width="120" height="300"/></a>
