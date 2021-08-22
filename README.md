@@ -15,12 +15,9 @@ This App will show the news feed  on a regular or continuous basis for onward di
 5. No functionality on click of the cell (on regular or Top Article).<br>   
 <br>
 <br>
-<a href="https://github.com/mksmanish/NewsFeedApp/blob/main/screens/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-08-01%20at%2022.25.32.png"><img src="https://github.com/mksmanish/NewsFeedApp/blob/main/screens/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-08-01%20at%2022.25.32.png" width="120" height="300"/></a>
+<br>   
+<img src = "https://github.com/mksmanish/NewsFeedApp/blob/main/screens/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-08-01%20at%2022.25.32.png" width="200" height="400" ><br>
+<img src = "https://github.com/mksmanish/NewsFeedApp/blob/main/screens/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-08-01%20at%2022.25.43.png" width="200" height="400" ><br>
 <br>
-<tr>
-<br>
-<a href="https://github.com/mksmanish/NewsFeedApp/blob/main/screens/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-08-01%20at%2022.25.43.png"><img src="https://github.com/mksmanish/NewsFeedApp/blob/main/screens/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-08-01%20at%2022.25.43.png" width="120" height="300"/></a>
-<br>
-<br> 
    
 
